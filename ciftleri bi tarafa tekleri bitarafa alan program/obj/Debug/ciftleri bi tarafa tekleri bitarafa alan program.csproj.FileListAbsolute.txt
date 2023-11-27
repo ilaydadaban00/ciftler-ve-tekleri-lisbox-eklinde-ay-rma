@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\bin\Debug\ciftleri bi tarafa tekleri bitarafa alan program.exe.config
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\bin\Debug\ciftleri bi tarafa tekleri bitarafa alan program.exe
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\bin\Debug\ciftleri bi tarafa tekleri bitarafa alan program.pdb
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri bi tarafa tekleri bitarafa alan program.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri_bi_tarafa_tekleri_bitarafa_alan_program.Form1.resources
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri_bi_tarafa_tekleri_bitarafa_alan_program.Properties.Resources.resources
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri bi tarafa tekleri bitarafa alan program.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri bi tarafa tekleri bitarafa alan program.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri bi tarafa tekleri bitarafa alan program.exe
+C:\Users\ben\source\repos\ciftleri bi tarafa tekleri bitarafa alan program\ciftleri bi tarafa tekleri bitarafa alan program\obj\Debug\ciftleri bi tarafa tekleri bitarafa alan program.pdb
